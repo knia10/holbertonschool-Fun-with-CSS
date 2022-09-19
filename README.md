@@ -8,7 +8,7 @@ Enjoy!
 ## TASKS
 #### 0.Sprite languages
 By using this HTML:
-´´´
+```
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -25,16 +25,17 @@ By using this HTML:
         </ul>
     </body>
 </html>
-´´´
-And this image file: [0-sprite.png](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/2/d416199ca6ecdbd0f8a3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20220919%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220919T212427Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=ed4f94294391a6834557186e403d5100eeb6bb346490882a474107220fb51873)
-
-Create `0-styles.css` and generate this layout:
+```
+And this image file:
 ![alt](./images/sprite.png)
-You are not allowed to change the image and the HTML - sprite is cool!
+
+*Create `0-styles.css` and generate this layout:*
+
+*You are not allowed to change the image and the HTML - sprite is cool!*
 
 #### 1. Move the (under)line
 By using this HTML:
-´´´
+```
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -49,10 +50,10 @@ By using this HTML:
         </h2>
     </body>
 </html>
-´´´
-Create `1-styles.css` and generate this layout:
+```
+*Create `1-styles.css` and generate this layout:*
 ![alt](./images/underline.gif)
-You are not allowed to change the HTML
+*You are not allowed to change the HTML*
 
 #### 2. Toggle
 By using this HTML:
@@ -76,13 +77,13 @@ By using this HTML:
     </body>
 </html>
 ```
-Create `2-styles.css` and generate this layout where the <input> is has this custom toggle layout:
-**Checked:**
+*Create `2-styles.css` and generate this layout where the <input> is has this custom toggle layout:*
+* **Checked:** *
 ![alt](./images/toggle_on.png)
 
-**Unchecked:**
+* **Unchecked:** *
 ![alt](./images/toggle_off.png)
-You are not allowed to change the HTML
+*You are not allowed to change the HTML*
 
 #### 3. Menu
 
@@ -117,8 +118,8 @@ By using this HTML:
     </body>
 </html>
 ```
-Create `3-styles.css` and generate this layout/animation:
+*Create `3-styles.css` and generate this layout/animation:*
 ![alt](./images/menu.gif)
-You are not allowed to change the HTML
+*You are not allowed to change the HTML*
 
 By **Estefania Ruiz** 🦌 From **Holberton School** 🪐
