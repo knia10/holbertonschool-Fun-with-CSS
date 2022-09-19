@@ -6,13 +6,13 @@
   position: relative;
 }
 .toggle-inner {
-  content: url(images/check_off.png);
+  content: url(images/toggle_off.png
 }
 .toggle-cb:checked + .toggle-label .toggle-inner {
   content: "";
   position: absolute;
 }
 .toggle-cb:checked  + .toggle-label .toggle-switch {
-  content: url(images/check_on.png);
+  content: url(images/toggle_on.png);
   position: absolute;
 }
