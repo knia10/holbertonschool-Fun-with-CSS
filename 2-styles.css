@@ -6,7 +6,7 @@
   position: relative;
 }
 .toggle-inner {
-  content: url(images/toggle_off.png
+  content: url(images/toggle_off.png);
 }
 .toggle-cb:checked + .toggle-label .toggle-inner {
   content: "";
